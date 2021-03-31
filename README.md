@@ -6,8 +6,8 @@
   - 첫번째 토이프로젝트로 만들어 보는 블로그.
   - 새로운 기술들을 도입해보는데 의의가 있음.
 ## 기술스택
-- F/E : Vue
-- B/E : Node
+- F/E : React.js
+- B/E : Node.js
 - DB : MariaDB
 - TDD기반
 - ORM기반
